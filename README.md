@@ -2,7 +2,7 @@
 
 This repository contains materials, notes, and lab assignments for the course  
 **Computer Engineering** (course code: 284868) at the **University of Parma**.  
-The course is taught in **Italian**, worth **6 CFU **, and held at the **Department of Engineering and Architecture, Parma** by Professor Jacopo Aleotti.
+The course is taught in **Italian**, worth **6 CFU**, and held at the **Department of Engineering and Architecture, Parma** by Professor Jacopo Aleotti.
 
 ---
 
