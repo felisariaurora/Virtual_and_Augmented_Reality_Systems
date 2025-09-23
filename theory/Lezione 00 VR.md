@@ -31,4 +31,3 @@ I modelli grafici sono modelli a poligoni: tutto ciò che viene rappresentato, r
 Ogni pixel dello schermo ha un colore ed è rappresentato da un vettore (red, green, blue).
 I colori sono vettori in uno spazio 3D.
 ![[image003.png|400]]
-==minuto 18:30==
