@@ -1,8 +1,10 @@
-# Computer Engineering — University of Parma
+# Virtual and Augmented Reality Systems — University of Parma
 
-This repository contains materials, notes, and lab assignments for the course  
-**Computer Engineering** (course code: 284868) at the **University of Parma**.  
-The course is taught in **Italian**, worth **6 CFU**, and held at the **Department of Engineering and Architecture, Parma** by Professor Jacopo Aleotti.
+This repository contains notes, materials, and lab assignments for the course  
+**Virtual and Augmented Reality Systems** (course code: 1008731) at the **University of Parma**.  
+The course is part of the **Master’s Degree in Computer Engineering**.
+It is taught in **Italian**, worth **6 CFU **, with **48 hours** of frontal activities.  
+The course is delivered at the **Department of Engineering and Architecture, Parma**, and is taught by **Professor Jacopo Aleotti**.
 
 ---
 
